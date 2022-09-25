@@ -43,7 +43,7 @@ export default function Home() {
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Delete</h2>
+            <h2>Delete </h2>
             <p>When we want to delete some information</p>
           </a>
         </div>
